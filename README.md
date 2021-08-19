@@ -1,6 +1,6 @@
 <h1 align="center"> नमस्ते (Namaste), I'm Akash Sharma <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-A 21Y/O Software👨‍💻 developer🎯 from India. I'm passionate about Back-End Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. 
+A 21Y/O Software👨‍💻 developer🎯 from India. I'm passionate about Back-End Development.:bar_chart:.
 
 
 ![age](https://img.shields.io/badge/age-21-blue)
