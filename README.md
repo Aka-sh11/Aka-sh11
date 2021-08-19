@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aka-sh11)](https://github.com/anuraghazra/github-readme-stats)
 ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Aka-sh11)
 
 <!--
