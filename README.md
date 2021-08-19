@@ -1,15 +1,9 @@
 <h1 align="center"> नमस्ते (Namaste), I'm Akash Sharma <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-A 21Y/O Software👨‍💻 developer🎯 from India. I'm passionate about Back-End Development.:bar_chart:.
-
-
-![age](https://img.shields.io/badge/age-21-blue)
-![focus](https://img.shields.io/badge/focus-Python-brightgreen)
-![living](https://img.shields.io/badge/living-Guwahati-3c9)
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning ![focus](https://img.shields.io/badge/Python-brightgreen)
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/akash.sh_)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
