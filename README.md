@@ -1,8 +1,12 @@
 <h1 align="center"> नमस्ते (Namaste), I'm Akash Sharma <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 -🌱 I’m currently learning Python
+
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/akash.sh_)
+- 
 - 😄 Pronouns: he/him/his
+- 
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
+- 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aka-sh11)](https://github.com/anuraghazra/github-readme-stats)
 ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Aka-sh11)
