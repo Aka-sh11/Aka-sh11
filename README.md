@@ -5,8 +5,18 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aka-sh11)](https://github.com/anuraghazra/github-readme-stats)
-![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Aka-sh11)
+<br >
+
+## 🏆 Github Status
+
+<img  src="https://github-readme-stats.vercel.app/api?username=Aka-sh11&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Aka-sh11&theme=dark" width="45%" >
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Aka-sh11&show_icons=true&locale=en&layout=compact&theme=dark" width="45%" alt="Aka-sh11" /></p>
+
+<br>
+
 
 <!--
 **Aka-sh11/Aka-sh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
