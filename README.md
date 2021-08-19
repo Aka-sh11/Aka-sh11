@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there I am Akash 👋
+🌱 I’m currently learning Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aka-sh11)](https://github.com/anuraghazra/github-readme-stats)
 ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Aka-sh11)
