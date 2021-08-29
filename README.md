@@ -4,7 +4,7 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning ML
 
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/akasharma._)
 
