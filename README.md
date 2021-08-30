@@ -10,7 +10,7 @@
 
 - 😄 Pronouns: he/him/his
 
-- ⚡ Fun fact: Jack of all trades , Master of None ! 
+- ⚡ Fun fact: Verschlimmbessern !!
 
 
 
