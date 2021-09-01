@@ -8,6 +8,8 @@
 
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/akasharma._)
 
+- 😅 I tell Computers to do things. Sometimes they listen.
+
 - 😄 Pronouns: he/him/his
 
 - ⚡ Fun fact: Verschlimmbessern !!
