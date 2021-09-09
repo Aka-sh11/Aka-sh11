@@ -32,8 +32,8 @@
 
 ### Show some ❤️ by starring ⭐ some of the repositories!
   
-[<img src='https://img.icons8.com/cute-clipart/64/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/aka-sh11/)
-[<img src='https://img.icons8.com/cute-clipart/64/000000/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/akasharma._/?hl=en)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aka-sh11/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/akasharma._/?hl=en)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/mr.akash.sh/)
 
 
