@@ -4,7 +4,7 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning Data Science.
+- 🌱 I’m currently pursuing B.S. in Data Science & Applications from IITM.
 
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/akasharma._)
 
