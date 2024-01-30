@@ -35,7 +35,7 @@
 
 ## 🏆 Github Status
 
-<img  src = "https://github-readme-stats.vercel.app/api?username=Aka-sh11&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+<img  src = "https://github-readme-stats.vercel.app/api?username=Aka-sh11&show_icons=true&locale=en&layout=compact&theme=dark" width="45%" align="right" >
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Aka-sh11&theme=dark" width="45%" >
 
