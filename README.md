@@ -12,6 +12,8 @@
 - 😅 I tell computers to do things. Sometimes they listen.
 
 - ⚡ Fun fact: Verschlimmbessern !!
+
+- 🤺 Yoda once said, There is no try, only do. Fixing bugs, a good coder embraces.
 <br>
 
 ## Languages and Tools:
