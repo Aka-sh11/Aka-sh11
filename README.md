@@ -1,5 +1,5 @@
 <h1 align="center"> नमस्ते (Namaste), I'm Akash Sharma <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-<h3 align="center">A passionate Web Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Full-Stack Developer from India 🇮🇳</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aka-sh11&label=Profile%20views&color=0e75b6&style=flat" alt="Aka-sh11" /> </p> -->
 
