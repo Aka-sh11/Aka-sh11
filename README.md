@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently pursuing B.S. in Data Science & Applications from IITM.
   
-- 👨‍💻 With 7 months as an LLM Engineer Intern and 4 months as an AI Engineer Intern, I’m seeking AI Engineer roles.
+- 👨‍💻 Built predictive models, AI agents, and LLM tools across apps, extensions, and vector workflows. 
 
 - 📫 How to reach me: [akasharma.py@gmail.com](mailto:akasharma.py@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
